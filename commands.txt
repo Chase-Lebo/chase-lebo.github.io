@@ -1,0 +1,5 @@
+cd /Users/cdustevich/Desktop/GitHub/chase-lebo.github.io 
+
+dpkg-scanpackages -m ./debs > Packages
+
+bzip2 Packages
