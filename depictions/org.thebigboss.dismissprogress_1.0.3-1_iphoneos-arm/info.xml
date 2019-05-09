@@ -1,0 +1,23 @@
+<package>
+	<id>org.thebigboss.dismissprogress_1.0.3-1_iphoneos-arm</id>
+	<name>FreeFall</name>
+	<version>1.0.3-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This package is DismissProgress updated/recompiled for arm64e.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
