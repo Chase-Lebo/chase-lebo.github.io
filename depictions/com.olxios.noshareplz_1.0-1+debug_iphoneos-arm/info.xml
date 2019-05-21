@@ -1,0 +1,23 @@
+<package>
+	<id>com.olxios.noshareplz_1.0-1+debug_iphoneos-arm</id>
+	<name>NoSharePlz</name>
+	<version>1.0-1+debug</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This package is NoSharePlz updated/recompiled for arm64e.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
