@@ -1,0 +1,23 @@
+<package>
+	<id>com.supermamon.cyuicachewhenneeded_0.0.1-1+debug_iphoneos-arm</id>
+	<name>CyUicacheWhenNeeded</name>
+	<version>0.0.1-2+debug</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.2</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This package is CyUicacheWhenNeeded updated/recompiled for arm64e.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
