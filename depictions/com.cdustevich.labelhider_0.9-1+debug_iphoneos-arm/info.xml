@@ -1,0 +1,19 @@
+<package>
+	<id>com.cdustevich.labelhider_0.9-1+debug_iphoneos-arm</id>
+	<name>LabelHider</name>
+	<version>0.9-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This package is my first tweak, LabelHider, which hides labels on the SpringBoard.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,0 +1,19 @@
+<package>
+	<id>com.rpetrich.cask_0.2-3+debug_iphoneos-arm</id>
+	<name>Cask</name>
+	<version>0.2-3</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This package is Cask updated/recompiled for arm64e.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
